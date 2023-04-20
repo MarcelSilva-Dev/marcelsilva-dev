@@ -10,11 +10,12 @@
    </div>
 ㅤㅤㅤ
 ㅤㅤ
- 
+
+Contatos:
 <div> 
- <a href="https://instagram.com/msilvs_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:marceelsilvaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/01marcel-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/msilvs_/" target="_blank"><img src="https://icongr.am/devicon/twitter-original.svg?size=45&color=50bafb" target="_blank"></a>
+ <a href="https://instagram.com/msilvs_" target="_blank"><img align="center" height="50" width="50" src="https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_960_720.png" target="_blank"></a>  
+  <a href = "mailto:marceelsilvaa@gmail.com"><img align="center" src="https://icongr.am/devicon/google-original.svg?size=40&color=50bafb" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/01marcel-silva/" target="_blank"><img align="center" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg?size=45&color=50bafb" target="_blank"></a>
+       <a href="https://twitter.com/msilvs_/" target="_blank"><img align="center" height="30" width="40" src="https://icongr.am/devicon/twitter-original.svg?size=45&color=50bafb" target="_blank"></a>
           
 </div>
