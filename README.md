@@ -19,5 +19,3 @@ Contatos:
        <a href="https://twitter.com/msilvs_/" target="_blank"><img align="center" height="30" width="40" src="https://icongr.am/devicon/twitter-original.svg?size=45&color=50bafb" target="_blank"></a>
 
 </div>
-
-![snake gif](https://github.com/marcelsilva-dev/marcelsilva-dev/blob/output/github-contribution-grid-snake.svg)
