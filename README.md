@@ -20,4 +20,4 @@ Contatos:
 
 </div>
 
-![snake gif](https://github.com/MarcelSilva-Dev/MarcelSilva-Dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/marcelsilva-dev/marcelsilva-dev/blob/output/github-contribution-grid-snake.svg)
