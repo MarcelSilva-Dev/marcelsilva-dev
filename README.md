@@ -17,7 +17,7 @@ Contatos:
   <a href = "mailto:marceelsilvaa@gmail.com"><img align="center" src="https://icongr.am/devicon/google-original.svg?size=40&color=50bafb" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/01marcel-silva/" target="_blank"><img align="center" height="30" width="40" src="https://icongr.am/devicon/linkedin-original.svg?size=45&color=50bafb" target="_blank"></a>  
   <a href="https://twitter.com/msilvs_/" target="_blank"><img align="center" height="30" width="40" src="https://icongr.am/devicon/twitter-original.svg?size=45&color=50bafb" target="_blank"></a>  
-  <a href="[https://codepen.io/MarcelSilva-Dev)" target="_blank"><img align="center" height="30" width="40" src="[[https://pin.it/39MCJKy](https://br.pinterest.com/pin/3166662213816354/)](https://images.app.goo.gl/jVwFXrNnpQsRPGjE9)" target="_blank"></a> 
+  
 </div>
 
 
